@@ -1,9 +1,13 @@
-greeting = 'Hello'
-print(greeting[1])
-print(len(greeting))
-print(greeting + ' World')
+lista_quadrados = [0,1,4,9,16,25]
+print(lista_quadrados)
+print(lista_quadrados[2:4])
+'''Teste
+de 
+comentário
+com
+quebra
+de
+linha'''
 
-stmt = r'\n é um caracter de nova linha por padrão.'
-print(stmt)
-
-print("Teste")
+exemplo_tupla = 1, 2, 3
+print(exemplo_tupla)
