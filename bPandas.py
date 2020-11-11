@@ -12,3 +12,4 @@ data = {
 df = pd.DataFrame(data, columns=['País', 'Capital', 'População'])
 
 print(df.iloc[0][0])
+print("Correto!")
